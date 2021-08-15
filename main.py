@@ -4,7 +4,7 @@ import isodate
 import json, requests
 
 # replace with your api
-yt_api = 'AIzaSyAT5mgbKV6ks2g8KqnEI5NRJ9Fhaa_943s' 
+yt_api = 'your api key' 
 # replace with your playlist_id
 playlist_id = 'PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q'
 
